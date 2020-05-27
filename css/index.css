@@ -3,7 +3,7 @@
     margin-top: 1px;
 }
 #search_bar{
-                  
+                
 }
 #side_bar{
     
@@ -19,4 +19,24 @@
 }
 #subscription_icon{
     margin-right: 10px;
+}
+#searchbox{
+    width: 700px;
+    border-radius: 5px;
+}
+.searchitem{
+    text-align: center;
+    
+}
+#gif1{
+    margin-left: 150px;
+}
+#gif2{
+    margin-left: 50px;
+}
+#gif3{
+    margin-left: 50px;
+}
+#gif4{
+    margin-left: 50px;
 }
